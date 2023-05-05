@@ -12,7 +12,7 @@ I'm a software developer who loves to create and learn new things. I have experi
 
 ## 📫 How to reach me
 
-You can contact me at anuragsingh1921@gmail.com or follow me on [Twitter](https://twitter.com/anuragsingh1921) or [LinkedIn](https://www.linkedin.com/in/anurag-singh-1921/).
+You can contact me at anuragsingh1921@gmail.com or follow me on [Leetcode](https://leetcode.com/anuragsingh17ai/) or [LinkedIn](https://www.linkedin.com/in/anuragsinghshahi/).
 
 ## 🙏 Thank you for visiting my page!
 
