@@ -40,9 +40,9 @@ Feel free to explore my repositories, open issues, or suggest improvements. Let'
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragsingh17ai&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragsingh17ai&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsingh17ai&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsingh17ai&layout=compact&theme=radical)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuragsingh17ai&theme=radical)
 
