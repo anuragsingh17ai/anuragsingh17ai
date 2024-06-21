@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Anurag Singh!
 
-I'm a passionate Machine Learning enthusiast with 1 year of internship experience in building intelligent systems and working on real-world data science problems. I'm excited about creating models that can make predictions, learn from data, and help solve complex challenges.
+I'm a passionate Machine Learning enthusiast with more than 1 year of experience in building intelligent systems and working on real-world data science problems. I'm excited about creating models that can make predictions, learn from data, and help solve complex challenges.
 
 ![Machine Learning](https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif)
 
