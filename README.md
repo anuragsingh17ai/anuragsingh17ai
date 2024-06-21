@@ -2,7 +2,7 @@
 
 I'm a passionate Machine Learning enthusiast with 1 year of internship experience in building intelligent systems and working on real-world data science problems. I'm excited about creating models that can make predictions, learn from data, and help solve complex challenges.
 
-![Machine Learning](https://media.giphy.com/media/2sXf9PbHcEdE1x059I/giphy.gif)
+![Machine Learning](https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif)
 
 
 ### 💻 Skills
@@ -39,7 +39,7 @@ Feel free to explore my repositories, open issues, or suggest improvements. Let'
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragsingh17ai&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsingh17ai&layout=compact)
 
