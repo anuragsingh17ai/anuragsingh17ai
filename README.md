@@ -2,11 +2,12 @@
 
 I'm a passionate Machine Learning enthusiast with 1 year of internship experience in building intelligent systems and working on real-world data science problems. I'm excited about creating models that can make predictions, learn from data, and help solve complex challenges.
 
-![Machine Learning](https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif)
+![Machine Learning](https://media.giphy.com/media/2sXf9PbHcEdE1x059I/giphy.gif)
+
 
 ### 💻 Skills
 - **Programming Languages**: Python, C++, Js
-- **Frameworks and Libraries**: Pytorch, Scikit-Learn, Pandas, NumPy
+- **Frameworks and Libraries**: Pytorch, Scikit-Learn, Pandas, NumPy, Fastapi, Django, Reactjs
 - **Data Visualization**: Matplotlib, Seaborn
 - **Tools**: Jupyter Notebooks, Git, Docker
 
