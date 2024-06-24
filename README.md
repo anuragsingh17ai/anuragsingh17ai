@@ -30,8 +30,8 @@ Here are a few highlights of my projects:
 
 ### 📫 How to reach me
 - **Email**: [anuragsingh1921@gmail.com](mailto:anuragsingh1921@gmail.com)
-- **LinkedIn**: [anuragsingh17ai](https://x.com/anuragsingh17ai)
-- **Twitter**: [@anuragsingh17ai](https://www.linkedin.com/in/anuragsinghshahi/)
+- **Twitter**: [@anuragsingh17ai](https://x.com/anuragsingh17ai)
+- **LinkedIn**: [anuragsingh17ai](https://www.linkedin.com/in/anuragsinghshahi/)
 
 ![Coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
