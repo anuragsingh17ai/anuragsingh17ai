@@ -7,7 +7,7 @@ I'm a passionate Machine Learning Engineer with more than 1 year of experience i
 
 ### 💻 Skills
 - **Programming Languages**: Python, C++, Js
-- **Frameworks and Libraries**: Pytorch, Scikit-Learn, Pandas, NumPy, Fastapi, Django, Reactjs
+- **Frameworks and Libraries**: Pytorch, Scikit-Learn, Pandas, NumPy, Fastapi, SQLALCHEMY, Redis, Reactjs
 - **Data Visualization**: Matplotlib, Seaborn
 - **Tools**: Jupyter Notebooks, Git, Docker
 
